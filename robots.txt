@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location (Optional - if we generate one later)
+Sitemap: https://marutivelvet.netlify.app/sitemap.xml
