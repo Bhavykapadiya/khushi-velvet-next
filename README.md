@@ -1,2 +1,2 @@
-# maruti-velvet
+# khushi-velvet
 # khushi-velvet
