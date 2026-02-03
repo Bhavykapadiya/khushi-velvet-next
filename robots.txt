@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location (Optional - if we generate one later)
-Sitemap: https://khushivelvet.netlify.app/sitemap.xml
+Sitemap: https://www.khushivelvet.com/sitemap.xml
