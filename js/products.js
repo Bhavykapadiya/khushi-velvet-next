@@ -1,4 +1,24 @@
 const products = {
+    "11000-velvet": {
+        title: "11000 Velvet",
+        image: "assets/velvet_11000.png",
+        description: "The pinnacle of luxury. Our 11000 Velvet features an ultra-dense pile and heavy weight, offering unmatched softness and a regal drape. Designed for exclusive bridal wear and royal interiors.",
+        features: [
+            "Ultra-high density pile",
+            "Superior weight and drape",
+            "Exquisite soft touch",
+            "Rich, deep color saturation",
+            "Premium choice for bridal & luxury decor"
+        ],
+        specs: {
+            "Material": "100% Micro Polyester",
+            "Quality": "11000 Premium",
+            "Width": "58\"",
+            "Weight": "Super Heavy",
+            "Technics": "Woven",
+            "Usage": "Bridal Lehengas, Royal Upholstery, High-End Fashion"
+        }
+    },
     "micro-9000": {
         title: "Micro 9000 Velvet",
         image: "assets/velvet_micro_9000.jpg",
