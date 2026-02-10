@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://example.com'; // TODO: Replace with your actual domain
+  const baseUrl = 'https://khushivelvet.com'; // TODO: Replace with your actual domain
 
   return [
     {
