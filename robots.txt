@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Sitemap Location (Optional - if we generate one later)
-Sitemap: https://www.khushivelvet.com/sitemap.xml
